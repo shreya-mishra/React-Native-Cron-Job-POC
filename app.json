@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "cron-job-demo-app",
+    "slug": "cron-job-demo-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "cron-job-demo-app"
+}
